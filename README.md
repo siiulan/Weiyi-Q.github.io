@@ -7,14 +7,11 @@ A tutorial that will walk users through the entire data science pipeline: data c
 ***, Zhiyue Gao, [Weiyi Qin](https://github.com/Weiyi-Q)
 
 ### Prerequisites 
-**R** and **RStudio** 
+For this tutorial, you will need to install **R** and **RStudio** 
 
-Install **R**:
-`sudo apt -y install r-base`
+Install **R**: `sudo apt -y install r-base`
 
-Install **RStudio**:  
-`sudo dpkg -i rstudio-1.2.5033-amd64.deb` and then
-`sudo apt -f install`
+Install **RStudio**: `sudo dpkg -i rstudio-1.2.5033-amd64.deb` and then `sudo apt -f install`
 
 ### Contribution
 
