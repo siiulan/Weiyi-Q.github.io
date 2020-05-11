@@ -9,4 +9,4 @@ A tutorial that will walk users through the entire data science pipeline: data c
 ### Prerequisites 
 
 ### License
-This project is licensed under the MIT License 
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Weiyi-Q/cmsc320FinalProj/blob/master/LICENSE) file for details
