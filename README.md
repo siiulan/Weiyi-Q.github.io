@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the data science tutorial Pages
 
 You can use the [editor on GitHub](https://github.com/Weiyi-Q/cmsc320FinalProj/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
