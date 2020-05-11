@@ -17,4 +17,7 @@ Install **RStudio**: `sudo dpkg -i rstudio-1.2.5033-amd64.deb` and then `sudo ap
 
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Weiyi-Q/cmsc320FinalProj/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Weiyi-Q/cmsc320FinalProj/blob/master/LICENSE) file for details.
+
+### Acknowledgments
+Special thanks to Professor [Héctor Corrada Bravo](http://www.hcbravo.org/) and his [online resources](http://www.hcbravo.org/IntroDataSci/). 
