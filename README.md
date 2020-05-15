@@ -4,7 +4,7 @@ This is a tutorial that will walk users through the entire data science pipeline
 
 ### Authors
 
-***, Zhiyue Gao, [Weiyi Qin](https://github.com/Weiyi-Q)
+Katherine Zen, Zhiyue Gao, [Weiyi Qin](https://github.com/Weiyi-Q)
 
 ### Prerequisites 
 For this tutorial, you will need to install **R** and **RStudio** 

@@ -1,1 +1,19 @@
+---
+title: "Final Project"
+author: "Katherine Zen, Zhiyue Gao, Weiyi Qin"
+---
 
+# Analysis of crime record of San Fransico
+
+
+### Introduction
+
+Monitoring and tracking cirme record of a city seems fairly important, it not only implicitly states how crimes are committed but also gives the authorities a better way to analyze the features of crimes across cities and enforce more security to reduce the crimes efficiently. Therefore, we are giving this turorial of how to do the analysis of a San Fransico Crime Data Set in a way of data science.
+
+### Motivation:
+
+
+
+
+
+### Data preparation:
